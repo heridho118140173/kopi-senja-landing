@@ -1,3 +1,7 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
 h1 { color :plum;}
 h2 { color :blueviolet}
 .list-nav {
