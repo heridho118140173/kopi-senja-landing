@@ -1,6 +1,6 @@
 h1 { color :plum;}
 h2 { color :blueviolet}
-ul {
+.list-nav {
     list-style: none;
     display: flex;
     gap : 45px;
@@ -13,4 +13,12 @@ nav {
 .logo-nav {
             width: 120px;
             height: auto;
+}
+.tombol-pesan {
+    display: inline-block;
+    color :blanchedalmond;
+    background-color: blue;
+    text-decoration: none;
+    padding: 12px 24px;
+    border-radius: 50px;
 }
