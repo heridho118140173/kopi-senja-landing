@@ -2,6 +2,11 @@
     margin: 0;
     box-sizing: border-box;
 }
+body {
+    font-family: system-ui, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+}
 h1 { color :plum;}
 h2 { color :blueviolet}
 .list-nav {
