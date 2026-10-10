@@ -10,7 +10,6 @@ body {
 h1 { color :plum;}
 h2 { color :blueviolet}
 .list-nav a:hover {
-    list-style: none;
     color: #8b4513;
 }
 .list-nav{
