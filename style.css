@@ -3,8 +3,12 @@ h2 { color :blueviolet}
 ul {
     list-style: none;
     display: flex;
-    gap : 20px;
-    justify-content: flex-end;
+    gap : 45px;
+}
+nav {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
 }
 .logo-nav {
             width: 120px;
