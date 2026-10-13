@@ -21,7 +21,7 @@ h2 { color :blueviolet}
     text-decoration: none;
     color: #333333;
 }
-nav {
+.bagian-atas {
     display:flex;
     justify-content: space-between;
     align-items: center;
@@ -41,4 +41,7 @@ nav {
 .section {
     padding: 35px 20px;
     background-color: aqua;
+}
+.daftar-menu {
+    list-style: none;
 }
