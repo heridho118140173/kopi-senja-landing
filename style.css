@@ -28,7 +28,6 @@ h2 { color :blueviolet}
 }
 .logo-nav {
             width: 120px;
-            height: auto;
 }
 .tombol-pesan {
     display: inline-block;
@@ -49,4 +48,8 @@ h2 { color :blueviolet}
     display:flex;
     gap: 30px;
     align-items:flex-start;
+    margin-bottom: 15px;
+}
+.daftar-menu img{
+    width: 95px;
 }
