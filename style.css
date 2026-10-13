@@ -38,7 +38,7 @@ nav {
     padding: 12px 24px;
     border-radius: 50px;
 }
-#hero, #menu {
+.section {
     padding: 35px 20px;
     background-color: aqua;
 }
