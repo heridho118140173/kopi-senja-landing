@@ -32,7 +32,7 @@ h2 { color :blueviolet}
 }
 .tombol-pesan {
     display: inline-block;
-    color :blanchedalmond;
+    color :blanchedalmonds;
     background-color: blue;
     text-decoration: none;
     padding: 12px 24px;
@@ -44,4 +44,9 @@ h2 { color :blueviolet}
 }
 .daftar-menu {
     list-style: none;
+}
+.daftar-menu li{
+    display:flex;
+    gap: 30px;
+    align-items:flex-start;
 }
